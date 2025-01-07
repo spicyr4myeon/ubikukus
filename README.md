@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ubikukus
+- 👋 Hi, I’m @spicyr4myeon
 - 👀 I’m interested in game development 
 - 🌱 I’m currently learning python and javascript
 
